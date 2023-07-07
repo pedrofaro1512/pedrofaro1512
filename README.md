@@ -1,9 +1,13 @@
 <h1 align="center">Hola 👋, soy Pedro Romero</h1>
 <h3 align="center">Un apasionado de la ciencia, tecnología, diseño y la programación</h3>
-<p align="start">Soy estudiante Full Stack Developer con background en diseño y animación 3D, además de 10 años de docente de Física y Matemáticas que me ayudaron a trabajar en equipo, adaptarme a los cambios, ser dinámico, creativo e innovador. Tengo conocimientos en metodologías ágiles, GIT, estructura de datos, algoritmos y frameworks. Tengo experiencia en desarrollo de Front End y Back End con JavaScript, HTML, CSS, React, Node, PostgreSQL y programas de diseño asistido por computador que me permitieron desarrollar habilidades como flexibilidad, compromiso, aprendizaje constante y autónomo. </p>
+<p align="start">Soy un Desarrollador Web Full Stack con experiencia en diseño y animación 3D, respaldado por un sólido historial como educador en Física y Matemáticas durante 10 años. Esta combinación única de habilidades me ha permitido adquirir una mentalidad analítica, trabajar en equipo de manera efectiva y adaptarme rápidamente a los cambios en el entorno de desarrollo.</p>
+<p align="start">Como desarrollador Full Stack, tengo experiencia tanto en el Front End como en el Back End, utilizando tecnologías como JavaScript, HTML, CSS, React, Node y PostgreSQL. Esta diversidad de habilidades me ha permitido desarrollar un enfoque flexible y creativo para abordar los desafíos técnicos, al tiempo que me mantengo comprometido con el aprendizaje constante y autónomo.</p>
+<p align="start">Mi pasión por el diseño asistido por computador me ha brindado la oportunidad de explorar nuevas formas de crear interfaces intuitivas y atractivas para los usuarios. Aprovechando mis habilidades en 3D, he podido aportar una perspectiva única al desarrollo web, logrando una experiencia de usuario memorable y cautivadora.</p>
+<p align="start">Soy una persona dinámica, innovadora y con una actitud orientada a resultados. Estoy siempre dispuesto a asumir nuevos desafíos y aprovechar mis habilidades técnicas para crear soluciones creativas y de calidad. Mi objetivo es utilizar mis conocimientos y experiencia en el desarrollo web para contribuir al crecimiento y éxito de los proyectos en los que participo.
+ </p>
 
 - 🔭 Actualmente estoy trabajando en mi proyecto final del bootcamp de Soy Henry, es un Ecommerce de vinos y licores realizado con siete compañeros por un tiempo de tres semanas donde ponemos en práctica todo lo aprendido a lo largo del bootcamp. El proyecto lo puedes ver en
-https://github.com/Sommelier-s
+https://github.com/Sommelier-s y en https://sommeliers-oficial.vercel.app/
 
 - 🌱 Actualmente estoy aprendiendo **Testing ágil** y **Python** en Udemy, además de todo aquello que pueda aportar al mejoramiento de mis habilidades en el desarrollo web.
 
