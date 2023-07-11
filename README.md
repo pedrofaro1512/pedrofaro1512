@@ -6,7 +6,7 @@
 <p align="start">Soy una persona dinámica, innovadora y con una actitud orientada a resultados. Estoy siempre dispuesto a asumir nuevos desafíos y aprovechar mis habilidades técnicas para crear soluciones creativas y de calidad. Mi objetivo es utilizar mis conocimientos y experiencia en el desarrollo web para contribuir al crecimiento y éxito de los proyectos en los que participo.
  </p>
 
-- 🔭 Actualmente estoy trabajando en mi proyecto final del bootcamp de Soy Henry, es un Ecommerce de vinos y licores realizado con siete compañeros por un tiempo de tres semanas donde ponemos en práctica todo lo aprendido a lo largo del bootcamp. El proyecto lo puedes ver en
+- 🔭 Mi proyecto final del bootcamp de Soy Henry, fue un Ecommerce de vinos y licores realizado con siete compañeros por un tiempo de tres semanas donde pusimos en práctica todo lo aprendido a lo largo del bootcamp. El proyecto lo puedes ver en
 https://github.com/Sommelier-s y en https://sommeliers-oficial.vercel.app/
 
 - 🌱 Actualmente estoy aprendiendo **Testing ágil** y **Python** en Udemy, además de todo aquello que pueda aportar al mejoramiento de mis habilidades en el desarrollo web.
