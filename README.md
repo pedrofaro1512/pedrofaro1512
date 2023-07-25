@@ -11,7 +11,7 @@ https://github.com/Sommelier-s y en https://sommeliers-oficial.vercel.app/
 
 - 🌱 Actualmente estoy aprendiendo **Testing ágil**, **Python**, **React**, **SASS** y bibliotecas como **Material UI**, **ant design** y **Bootstrap** en Udemy, además de todo aquello que pueda aportar al mejoramiento de mis habilidades en el desarrollo web.
 
-- 👨‍💻 Si quieres ver otros trabajos de programación todos mis proyectos están disponibles en https://github.com/pedrofaro1512.
+- 👨‍💻 Si quieres ver otros trabajos de programación todos mis proyectos están disponibles en https://github.com/pedrofaro1512 y mi portafolio es https://www.behance.net/pedroromero25
 - Y si quieres ver mis trabajos de diseño 3D están disponibles en [pedrofaro2711.artstation.com](pedrofaro2711.artstation.com)
 
 - 📫 Puedes contactarme al correo **pedrofaro2711@gmail.com**
