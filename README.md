@@ -9,7 +9,7 @@
 - 🔭 Mi proyecto final del bootcamp de Soy Henry, fue un Ecommerce de vinos y licores realizado con siete compañeros por un tiempo de tres semanas donde pusimos en práctica todo lo aprendido a lo largo del bootcamp. El proyecto lo puedes ver en
 https://github.com/Sommelier-s y en https://sommeliers-oficial.vercel.app/
 
-- 🌱 Actualmente estoy aprendiendo **Testing ágil**, **Python**, **React**, SASS y bibliotecas como Material UI, ant design y Bootstrap en Udemy, además de todo aquello que pueda aportar al mejoramiento de mis habilidades en el desarrollo web.
+- 🌱 Actualmente estoy aprendiendo **Testing ágil**, **Python**, **React**, **SASS** y bibliotecas como **Material UI**, **ant design** y **Bootstrap** en Udemy, además de todo aquello que pueda aportar al mejoramiento de mis habilidades en el desarrollo web.
 
 - 👨‍💻 Si quieres ver otros trabajos de programación todos mis proyectos están disponibles en https://github.com/pedrofaro1512.
 - Y si quieres ver mis trabajos de diseño 3D están disponibles en [pedrofaro2711.artstation.com](pedrofaro2711.artstation.com)
